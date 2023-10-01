@@ -1,5 +1,5 @@
 # Exploratory-Data-Analysis_on_Perfomance_of_schools
-This data aproaches student achivement in secondary education of two Portuguese in secondary The data attributes include student grades, demographic, social and school Weekly Project 13 - Statistics related features) and it collected by using school reports and questionnaires. Two datasets are provided regarding the performance in two distinct subjects: Mathematics (mat) and Portuguese language (por).
+This data aproaches student achivement in secondary education of two Portuguese schools and it collected by using school reports and questionnaires. Two datasets are provided regarding the performance in two distinct subjects: Mathematics (mat) and Portuguese language (por).
 
 What to do in the Project?
 
